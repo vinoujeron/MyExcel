@@ -1,0 +1,6 @@
+D:\Projects\vsRepos\Laba1\obj\Debug\netcoreapp3.1\CalcLexer.cs
+D:\Projects\vsRepos\Laba1\obj\Debug\netcoreapp3.1\CalcParser.cs
+D:\Projects\vsRepos\Laba1\obj\Debug\netcoreapp3.1\CalcListener.cs
+D:\Projects\vsRepos\Laba1\obj\Debug\netcoreapp3.1\CalcBaseListener.cs
+D:\Projects\vsRepos\Laba1\obj\Debug\netcoreapp3.1\CalcVisitor.cs
+D:\Projects\vsRepos\Laba1\obj\Debug\netcoreapp3.1\CalcBaseVisitor.cs
